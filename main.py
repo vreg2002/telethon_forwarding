@@ -8,8 +8,8 @@ TAGS = ['#TAG1', '#TAG2']
 # 2. Заполняем поля App title и Short name, нажимаем «Create application» и запоминаем две переменные: api_id и api_hash.
 
 
-api_id = 1234567
-api_hash = 'apihash'
+api_id = 8757085
+api_hash = '86e5df9bdb341074646a4b9946a67512'
 
 
 client = TelegramClient('session_name', api_id, api_hash)
